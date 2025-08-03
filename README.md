@@ -64,15 +64,15 @@ Applications:
 Demonstrates relevance in binary classification, coin flips, and decision-making models.
 
 🛠️ Technologies Used
-Python
+1. Python
 
-Jupyter Notebook
+2. Jupyter Notebook
 
-matplotlib, numpy, scipy.stats
+3. matplotlib, numpy, scipy.stats
 
 📌 Use Cases
-Ideal for students and beginners learning about probability distributions
+1. Ideal for students and beginners learning about probability distributions
 
-Can be used in teaching or presentations on statistical foundations
+2. Can be used in teaching or presentations on statistical foundations
 
-Prepares ground for understanding Binomial and other related distributions
+3. Prepares ground for understanding Binomial and other related distributions
